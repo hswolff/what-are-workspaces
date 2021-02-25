@@ -1,0 +1,5 @@
+{
+  "name": "@workspaces/common",
+  "main": "common",
+  "version": "1.0.0"
+}

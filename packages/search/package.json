@@ -1,0 +1,8 @@
+{
+  "name": "@workspaces/search",
+  "main": "search",
+  "version": "1.0.0",
+  "dependencies": {
+    "cowsay2": "^2.0.0"
+  }
+}

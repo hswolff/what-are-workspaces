@@ -1,0 +1,8 @@
+{
+  "name": "@workspaces/mail",
+  "main": "mail",
+  "version": "1.0.0",
+  "dependencies": {
+    "@workspaces/common": "1.0.0"
+  }
+}
