@@ -3,6 +3,7 @@
   "main": "search",
   "version": "1.0.0",
   "dependencies": {
+    "@workspaces/common": "1.0.0",
     "cowsay2": "^2.0.0"
   }
 }

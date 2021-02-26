@@ -1,14 +1,13 @@
 const path = require('path');
 
 module.exports = {
-  entry: './mail.js',
+  entry: './common.js',
   mode: 'development',
   devtool: false,
   output: {
-    filename: 'mail.dist.js',
+    filename: 'common.dist.js',
     path: path.resolve(__dirname, 'dist'),
+    // library: 'workspacesCommon',
+    // libraryTarget: 'umd',
   },
-  // externals: {
-  //   '@workspaces/common': 'workspacesCommon',
-  // },
 };

@@ -1,11 +1,11 @@
 const path = require('path');
 
 module.exports = {
-  entry: './mail.js',
+  entry: './search.js',
   mode: 'development',
   devtool: false,
   output: {
-    filename: 'mail.dist.js',
+    filename: 'search.dist.js',
     path: path.resolve(__dirname, 'dist'),
   },
   // externals: {
