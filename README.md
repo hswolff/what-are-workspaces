@@ -8,3 +8,5 @@ What the root workspace package.json looks like:
   "workspaces": ["packages/*"]
 }
 ```
+
+This is the source code for a presentation given to [UI.dev](https://ui.dev/events/) on What are Workspaces?
